@@ -313,6 +313,7 @@ footer{
 
    .inf p {
        text-align: center;
+       max-width: 600px;
    }
    nav ul li a {
        font-size: 14px;
